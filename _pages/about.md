@@ -21,10 +21,10 @@ I am passionate about teaching, nature, deep learning and helping people in need
 
 Timeline
 ------
-**2017-2018**: Master student at Keio University by MEXT Scholarship
-**2016**: Research student at Keio University by MEXT Scholarship
-**2013-2014**: Study abroad + Coop Program at University of Victoria by Science Without Borders Scholarship
-**2011-2015**: Bachelor in Computer Science at Federal University of Parana
+**2017-2018**: Master student at Keio University by MEXT Scholarship\
+**2016**: Research student at Keio University by MEXT Scholarship\
+**2013-2014**: Study abroad + Coop Program at University of Victoria by Science Without Borders Scholarship\
+**2011-2015**: Bachelor in Computer Science at Federal University of Parana\
 
 Achievements
 -----
