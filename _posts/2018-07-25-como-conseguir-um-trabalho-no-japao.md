@@ -37,16 +37,16 @@ Como procurar um emprego no Japão?
 -------
 Existem dois métodos: por recomendação (networking) ou na força bruta (enviando seu currículo por aí). O primeiro é mais difícil para a maioria das pessoas, porque envolve um pouco de sorte de conhecer a pessoa certa. Mas se você conhece alguém que more no Japão, peça por dicas ou recomendações de empresas, você nunca sabe se vai dar certo ou não se não tentar.
 O próximo método é também difícil, mas envolve menos sorte. Deixarei uma lista de sites aqui para que vocês possam procurar empregos no Japão:
-> [Indeed (JP)](https://jp.indeed.com/)
-> [Wantedly (JP)](https://www.wantedly.com/)
-> [LinkedIn (PT/EN)](https://www.linkedin.com)
-> [SpottedRecruit (EN)](https://spottedrecruit.com/)
-> [Tokyo Craigslist (EN)](https://tokyo.craigslist.jp/)
-> [Glassdoor (EN)](https://www.glassdoor.com)
-> [GaijinPot Jobs (EN)](https://jobs.gaijinpot.com/index/index/lang/en)
+> - [Indeed (JP)](https://jp.indeed.com/)
+> - [Wantedly (JP)](https://www.wantedly.com/)
+> - [LinkedIn (PT/EN)](https://www.linkedin.com)
+> - [SpottedRecruit (EN)](https://spottedrecruit.com/)
+> - [Tokyo Craigslist (EN)](https://tokyo.craigslist.jp/)
+> - [Glassdoor (EN)](https://www.glassdoor.com)
+> - [GaijinPot Jobs (EN)](https://jobs.gaijinpot.com/index/index/lang/en)
 >>**Engineers only:**
->> [GC Agent’s Robot Job Japan (EN)](http://www.gc-agent.com/robotjobjapan/)
->> [StackOverflow Job Listing (EN)](https://stackoverflow.com/jobs?med=site-ui&ref=jobs-tab)
+>> - [GC Agent’s Robot Job Japan (EN)](http://www.gc-agent.com/robotjobjapan/)
+>> - [StackOverflow Job Listing (EN)](https://stackoverflow.com/jobs?med=site-ui&ref=jobs-tab)
 
 Existem mais sites por aí, estes são os que usei para achar empregos no Japão. Outro detalhe importante: **várias empresas pedem currículo Japonês que é diferente dos ocidentais**, para saber mais sobre [leia este artigo (EN)](https://blog.gaijinpot.com/write-japanese-resume/). Outra coisa é que muitas empresas pedem que o aplicante more no Japão, mas algumas não pedem isso, então não deixe de procurar direitinho.
 
@@ -86,6 +86,6 @@ Enviei então meu currículo à empresa do marido da minha colega e recebi um co
 > - **Mostre-se uma pessoa curiosa e disposta a buscar novos conhecimentos **
 > - **Mostre que você também é capaz de aceitar novas ideias e/ou ideias contrárias**
 > - **Leia o website da empresa e busque informações que auxiliem você a mostrar como é bom para a empresa**
-> **Estar nervoso e empolgado é FISICAMENTE a mesma coisa mas com efeitos opostos: então treine você mesmo para se portar como uma pessoa empolgada ao invés de uma pessoa nervosa**
+> - **Estar nervoso e empolgado é FISICAMENTE a mesma coisa mas com efeitos opostos: então treine você mesmo para se portar como uma pessoa empolgada ao invés de uma pessoa nervosa**
 
 Este texto foi uma tentativa de ajudar aqueles que também querem encontrar um emprego no Japão. Leiam muito sobre o assunto e boa sorte!
